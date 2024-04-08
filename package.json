@@ -1,0 +1,14 @@
+{
+  "name": "npm-copy-dist",
+  "version": "1.0.0",
+  "description": "Script to copy 'dist' files of dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adminmart",
+  "license": "MIT",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
